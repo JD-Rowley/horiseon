@@ -5,9 +5,9 @@
         <li>Changed title to represent company.</li>
         <li>Added alts to images to increase accessibility.</li>
         <li>Included comments specifying elements.</li>
-        <li>Renamed <div class="search-engilne-optimization"> to <div id="search-engine-optimization">.</li>
-        <li>Added <div class="content-box"> to all content items for more efficient CSS.</li>
-        <li>Added <div class="benefits-styles"> to all benefits items for more efficient CSS.</li>
+        <li>Renamed div class="search-engilne-optimization" to div id="search-engine-optimization".</li>
+        <li>Added div class="content-box" to all content items for more efficient CSS.</li>
+        <li>Added div class="benefits-styles" to all benefits items for more efficient CSS.</li>
     </ul>
 <!-- CSS -->
 <h3>CSS</h3>
